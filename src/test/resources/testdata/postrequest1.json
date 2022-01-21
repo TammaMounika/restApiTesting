@@ -1,0 +1,14 @@
+{
+  "createdAt": 1631825833,
+  "employee_firstname": "MouniData12345",
+  "employee_lastname": "TestData12345",
+  "employee_phonenumbe": "264-783-9453",
+  "ademployee_emaildress": "ademployee_emaildress 1",
+  "citemployee_addressy": "citemployee_addressy 1",
+  "stateemployee_dev_level": "stateemployee_dev_level 1",
+  "employee_gender": "employee_gender 1",
+  "employee_hire_date": "2025-10-31T16:35:45.426Z",
+  "employee_onleave": true,
+  "tech_stack": [],
+  "project": []
+}
